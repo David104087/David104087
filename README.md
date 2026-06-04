@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-**Python Developer** · Data Engineering · Applied AI · Backend Systems
+**Python Developer** · Applied AI · Backend Systems
 
 Building data-driven tools and APIs at the Library Department of [Icesi University](https://www.icesi.edu.co/), Cali, Colombia.
 
