@@ -33,24 +33,6 @@ Building data-driven tools and APIs at the Library Department of [Icesi Universi
 | **HumanActivityAnalyzer** | Python · OpenCV | Real-time activity recognition from video streams using joint-tracking and ML inference |
 | **Bibliographic Searcher** | Python · Django | Academic data exploration tool with advanced search equations and dataset organization |
 
----
-
-## Focus Areas
-
-**Data Engineering** — ETL pipelines, API integration, data normalization, CSV/XLSX generation for institutional reporting
-
-**Applied AI** — Computer vision pipelines, joint-tracking feature extraction, real-time model inference
-
-**Backend APIs** — FastAPI services, REST design, pagination, rate-limit handling, structured error management
-
----
-
-## Background
-
-- Software Engineering student at Icesi University (8th semester)
-- Honor Roll — 7 consecutive semesters · 3 faculty certificates for top academic performance
-- Certifications: Software Architecture (Perficient) · MongoDB University · Google Cloud Data Analytics · Scrum Foundation (CertiProf)
-- IEEE Student Branch volunteer (2022–2024)
 
 ---
 
